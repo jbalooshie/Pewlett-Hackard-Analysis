@@ -1,4 +1,5 @@
 # Pewlett-Hackard-Analysis
+This repository was created as part of a 6 month Data Analystics Bootcamp administed by George Washington University. This is the repository for the Module 6 Challenge. This challenge served as an introduction to SQL. Topics covered database structures, creating databases, writing queries, and analyzing outputs. Queries utilized for the final assignment are in the Queries folder. 
 
 # 1. Overview of the Analysis
 
